@@ -1,0 +1,58 @@
+body{ 
+     margin:0;
+	 padding:0;
+	 background-image:url("images/login2.jpg");
+	 background-size:cover;
+}
+.Main3{
+	   top:70px;
+	   left:50%;
+	   position:absolute;
+	   transform:translate(-50%,-50%);
+	   
+}
+.Sub3{
+	padding:60px 40px 10px 40px;
+	background-color:#cccccc;
+	border-radius:10px;
+	position: absolute;
+	top:80px;
+	left:-150px;
+	
+}
+.heading h2{
+	color:white;
+	position: absolute;
+	left:44%;
+}
+#k{
+	height:100px;
+	width:100px;
+	   top:0%;
+	   left:50%;
+	   position:absolute;
+	   transform:translate(-50%,-50%);
+}
+#name{
+	color:black;
+	font-weight:bold;
+	width:230px;
+	border:none;
+	background:transparent;
+	border-bottom:1px solid white;
+	padding:10px;
+	margin-bottom:20px;
+	outline:none;
+	
+}
+#d{
+	font-weight:bold;
+	border-radius:10px;
+	padding:10px 15px;
+	background:dodgerblue;
+	color:white;
+	margin-top:40px;
+	border:none;
+	outline:none;
+	margin-left:78px;
+}

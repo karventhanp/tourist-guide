@@ -1,0 +1,14 @@
+.p-3
+{
+	background-color:#b8b894;
+	color: black;
+	margin-top:51px;
+}
+.fit-image{
+width: 400px;
+object-fit: cover;
+height: 230px;
+}
+.container{
+	background-color:#ccff66;
+}
